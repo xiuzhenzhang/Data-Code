@@ -23,4 +23,4 @@ Your right to use this dataset terminates automatically if you breach any of the
 
 ## Request
 
-* 📝 **Request Password:** Fill out the [Dataset Access Request Form](https://forms.cloud.microsoft/r/YQuBFMksjr). Once verified, the password will be sent to your institutional email.
+* 📝 Fill out the [Dataset Access Request Form](https://forms.cloud.microsoft/r/YQuBFMksjr). Once your request is reviewed and approved, information for accessing the dataset will be sent to your institutional email address.
