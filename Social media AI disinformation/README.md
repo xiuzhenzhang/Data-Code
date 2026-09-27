@@ -16,7 +16,7 @@ If you do not agree to these terms, you are not authorized to access or use the 
 Any publications, presentations, reports, or software releases that utilize this dataset must properly cite our associated research publication(s) and acknowledge the dataset creators. 
 
 *Please use the following citation format in your publications:*
->  Sajal Halder and Xiuzhen Zhang. "A Benchmark for AI-Generated Disinformation Detection in Social Media", 2026  
+>  "A Benchmark for LLM-Generated Disinformation Detection in SocialMedia", Submitted to NAACL-2027 
 
 ### 4. Termination
 Your right to use this dataset terminates automatically if you breach any of these terms. Upon termination, you must immediately delete all copies of the dataset and associated files in your possession.
