@@ -6,12 +6,9 @@ We generate four dataset based ML datasets in three different settings: HU-Dis, 
 Create_ML_Datasets.py file creates these ML datasets using our generated data and existing IO-data from Seckin et al., "Lebeled datasets for research on information operations, 2025. 
 
 ### 2. Benchmark Code Details
-DP_CoT_Baselines.py file contains experiments run based on 5 LLM models on different datasets and settings.
-
-Prediction_Models.py file contains code to run 7 Transformer-based models on different datasets and settings. 
-
-X-Troll.py file contains the Existing X-Troll model-based performance. 
-
+DP_CoT_Baselines.py contains the Direct Prompt and CoT prompt-based experimental code for evaluating five LLM-based models across different datasets and experimental settings.
+Transformer_Based_Baselines.py contains the code for evaluating seven Transformer-based models across different datasets and experimental settings.
+X-troll_Baseline.py contains the implementation and evaluation of the existing X-Troll model, including its performance across different datasets and experimental settings.
 
 ## Dataset Access 
 
