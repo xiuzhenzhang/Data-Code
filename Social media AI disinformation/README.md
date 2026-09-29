@@ -5,6 +5,7 @@ We generate four dataset based ML datasets in three different settings: HU-Dis, 
 
 Create_ML_Datasets.py file creates these ML datasets using our generated data and existing IO-data from Seckin et al., "Lebeled datasets for research on information operations, 2025. 
 
+### 1. Benchmark Code Details
 DP_CoT_Baselines.py file contains experiments run based on 5 LLM models on different datasets and settings.
 
 Prediction_Models.py file contains code to run 7 Transformer-based models on different datasets and settings. 
