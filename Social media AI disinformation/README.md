@@ -1,10 +1,15 @@
 ## Code Details 
 
 ### 1. Create ML Datasets
-We generate four dataset based ML datasets in three different settings: HU-Dis, AI-Dis and HU-AI-Dis. Create_ML_Datasets.py file creates these ML datasets using our generated data and existing IO-data from Seckin et al., "Lbeled datasets for research on information operations, 2025. 
+We generate four dataset based ML datasets in three different settings: HU-Dis, AI-Dis and HU-AI-Dis. 
 
+Create_ML_Datasets.py file creates these ML datasets using our generated data and existing IO-data from Seckin et al., "Lebeled datasets for research on information operations, 2025. 
 
+DP_CoT_Baselines.py file contains experiments run based on 5 LLM models on different datasets and settings.
 
+Prediction_Models.py file contains code to run 7 Transformer-based models on different datasets and settings. 
+
+X-Troll.py file contains the Existing X-Troll model-based performance. 
 
 
 ## Dataset Access 
