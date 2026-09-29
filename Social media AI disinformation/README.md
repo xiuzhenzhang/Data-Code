@@ -1,3 +1,12 @@
+## Code Details 
+
+### 1. Create ML Datasets
+We generate four dataset based ML datasets in three different settings: HU-Dis, AI-Dis and HU-AI-Dis. Create_ML_Datasets.py file creates these ML datasets using our generated data and existing IO-data from Seckin et al., "Lbeled datasets for research on information operations, 2025. 
+
+
+
+
+
 ## Dataset Access 
 
 Thank you for your interest in our research datasets. By downloading, accessing, or using this dataset, you agree to be bound by the terms and conditions outlined below. 
